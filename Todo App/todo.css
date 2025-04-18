@@ -1,0 +1,16 @@
+li{
+    color: black;
+    margin: 10px auto;
+}
+
+li button{
+    margin: 10px auto;
+}
+
+body{
+    background-color: bisque;
+}
+#inp{
+    background-color: black;
+    color: white;
+}
