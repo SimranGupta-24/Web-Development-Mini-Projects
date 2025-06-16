@@ -1,2 +1,2 @@
 # Web-Development-Projects
-This a repo which contains web development projects
+This  repo contains my mini Web Development Projects
